@@ -6,9 +6,7 @@
 
 
 
-
-|:--|:--|
-| <br> | [![autocomplete](https://codeium.com/badges/user/nekkitl/autocomplete)](https://codeium.com/profile/nekkitl) <br> <img src="https://profile-counter.glitch.me/nekkitl/count.svg" alt="Viewers"> |
+[![autocomplete](https://codeium.com/badges/user/nekkitl/autocomplete)](https://codeium.com/profile/nekkitl) <br> <img src="https://profile-counter.glitch.me/nekkitl/count.svg" alt="Viewers">
 
 
 
